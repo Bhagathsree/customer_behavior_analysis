@@ -131,11 +131,6 @@ The Power BI dashboard provides an interactive view of customer behavior and all
 * Key performance indicators
 * Trends and patterns
 
-
-```markdown
-![Power BI Dashboard](images/dashboard.png)
-```
-
 ---
 
 ## 🔍 Key Results & Insights
